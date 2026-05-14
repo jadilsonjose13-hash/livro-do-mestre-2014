@@ -1,0 +1,260 @@
+{
+  "id": "livro-do-mestre-2014",
+  "title": "Livro do Mestre (2014)",
+  "version": "1.6.2.1",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13"
+  },
+  "relationships": {
+    "requires": [
+      {
+        "id": "ATL",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "dnd-item-compendium-by-gwill",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "livro-do-jogador-2014",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "livro-dos-monstros-2014",
+        "type": "module",
+        "compatibility": {}
+      }
+    ],
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "<p>Tudo o que um Mestre precisa para criar histórias épicas para o maior RPG de todos os tempos.</p>",
+  "authors": [
+    {
+      "name": "Jadilson Santos",
+      "email": "jadilsonjose13@gmail.com",
+      "discord": "png_man",
+      "flags": {}
+    }
+  ],
+  "media": [
+    {
+      "type": "setup",
+      "thumbnail": "modules/livro-do-mestre-2014/imagens/thumb-modulo.jpg",
+      "loop": false,
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "tesouros-aleatorios",
+      "label": "Tesouros Aleatórios",
+      "path": "packs/tesouros-aleatorios",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "itens-magicos",
+      "label": "Itens Mágicos",
+      "path": "packs/itens-magicos",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "artefatos",
+      "label": "Artefatos",
+      "path": "packs/artefatos",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "itens-magicos-sencientes",
+      "label": "Itens Mágicos Sencientes",
+      "path": "packs/itens-magicos-sencientes",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "tabelas",
+      "label": "Tabelas",
+      "path": "packs/tabelas",
+      "type": "RollTable",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "outras-recompensas",
+      "label": "Outras Recompensas",
+      "path": "packs/outras-recompensas",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "venenos",
+      "label": "Venenos",
+      "path": "packs/venenos",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "regras",
+      "label": "Regras",
+      "path": "packs/regras",
+      "type": "JournalEntry",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "caracteristicas-de-subclasses",
+      "label": "Características de Subclasses",
+      "path": "packs/caracteristicas-de-subclasses",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "subclasses",
+      "label": "Subclasses",
+      "path": "packs/subclasses",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "armas-de-fogo",
+      "label": "Armas de Fogo",
+      "path": "packs/armas-de-fogo",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "explosivos",
+      "label": "Explosivos",
+      "path": "packs/explosivos",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "atores",
+      "label": "Atores",
+      "path": "packs/atores",
+      "type": "Actor",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Livro do Mestre (2014)",
+      "sorting": "a",
+      "color": "#800080",
+      "packs": [
+        "tabelas",
+        "venenos",
+        "regras",
+        "atores"
+      ],
+      "folders": [
+        {
+          "name": "Opções de Aventura",
+          "sorting": "a",
+          "color": "#730073",
+          "packs": [
+            "armas-de-fogo",
+            "explosivos"
+          ],
+          "folders": []
+        },
+        {
+          "name": "Subclasses",
+          "sorting": "m",
+          "color": "#660066",
+          "packs": [
+            "subclasses",
+            "caracteristicas-de-subclasses"
+          ],
+          "folders": []
+        },
+        {
+          "name": "Tesouros",
+          "sorting": "a",
+          "color": "#590059",
+          "packs": [
+            "artefatos",
+            "itens-magicos",
+            "itens-magicos-sencientes",
+            "tesouros-aleatorios",
+            "outras-recompensas"
+          ],
+          "folders": []
+        }
+      ]
+    }
+  ],
+  "flags": {
+    "dnd5e": {
+      "sourceBooks": {
+        "DMG 2014": "Livro do Mestre (2014)"
+      }
+    }
+  },
+  "url": "https://github.com/jadilsonjose13-hash/livro-do-mestre-2014",
+  "manifest": "https://raw.githubusercontent.com/jadilsonjose13-hash/livro-do-mestre-2014/refs/heads/main/module.json",
+  "download": "https://github.com/jadilsonjose13-hash/livro-do-mestre-2014/archive/refs/heads/main.zip"
+}
