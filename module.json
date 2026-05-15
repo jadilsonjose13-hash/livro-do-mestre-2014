@@ -1,7 +1,7 @@
 {
   "id": "livro-do-mestre-2014",
   "title": "Livro do Mestre (2014)",
-  "version": "1.7.0",
+  "version": "1.7.0.1",
   "compatibility": {
     "minimum": "12",
     "verified": "13"
@@ -62,7 +62,7 @@
       "type": "Item",
       "system": "dnd5e",
       "ownership": {
-        "PLAYER": "OBSERVER",
+        "PLAYER": "LIMITED",
         "ASSISTANT": "OWNER"
       }
     },
@@ -73,7 +73,7 @@
       "type": "Item",
       "system": "dnd5e",
       "ownership": {
-        "PLAYER": "OBSERVER",
+        "PLAYER": "LIMITED",
         "ASSISTANT": "OWNER"
       }
     },
@@ -84,7 +84,7 @@
       "type": "Item",
       "system": "dnd5e",
       "ownership": {
-        "PLAYER": "OBSERVER",
+        "PLAYER": "LIMITED",
         "ASSISTANT": "OWNER"
       }
     },
@@ -95,7 +95,7 @@
       "type": "Item",
       "system": "dnd5e",
       "ownership": {
-        "PLAYER": "OBSERVER",
+        "PLAYER": "LIMITED",
         "ASSISTANT": "OWNER"
       }
     },
@@ -106,7 +106,7 @@
       "type": "RollTable",
       "system": "dnd5e",
       "ownership": {
-        "PLAYER": "OBSERVER",
+        "PLAYER": "LIMITED",
         "ASSISTANT": "OWNER"
       }
     },
@@ -117,7 +117,7 @@
       "type": "Item",
       "system": "dnd5e",
       "ownership": {
-        "PLAYER": "OBSERVER",
+        "PLAYER": "LIMITED",
         "ASSISTANT": "OWNER"
       }
     },
@@ -128,7 +128,7 @@
       "type": "Item",
       "system": "dnd5e",
       "ownership": {
-        "PLAYER": "OBSERVER",
+        "PLAYER": "LIMITED",
         "ASSISTANT": "OWNER"
       }
     },
@@ -139,7 +139,7 @@
       "type": "JournalEntry",
       "system": "dnd5e",
       "ownership": {
-        "PLAYER": "OBSERVER",
+        "PLAYER": "NONE",
         "ASSISTANT": "OWNER"
       }
     },
@@ -150,7 +150,7 @@
       "type": "Item",
       "system": "dnd5e",
       "ownership": {
-        "PLAYER": "OBSERVER",
+        "PLAYER": "LIMITED",
         "ASSISTANT": "OWNER"
       }
     },
@@ -161,7 +161,7 @@
       "type": "Item",
       "system": "dnd5e",
       "ownership": {
-        "PLAYER": "OBSERVER",
+        "PLAYER": "LIMITED",
         "ASSISTANT": "OWNER"
       }
     },
@@ -172,7 +172,7 @@
       "type": "Item",
       "system": "dnd5e",
       "ownership": {
-        "PLAYER": "OBSERVER",
+        "PLAYER": "LIMITED",
         "ASSISTANT": "OWNER"
       }
     },
@@ -183,7 +183,7 @@
       "type": "Item",
       "system": "dnd5e",
       "ownership": {
-        "PLAYER": "OBSERVER",
+        "PLAYER": "LIMITED",
         "ASSISTANT": "OWNER"
       }
     },
@@ -194,7 +194,7 @@
       "type": "Actor",
       "system": "dnd5e",
       "ownership": {
-        "PLAYER": "OBSERVER",
+        "PLAYER": "LIMITED",
         "ASSISTANT": "OWNER"
       }
     }
